@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Image into a Link in HTML</title>
+</head>
+
+<body style="text-align: center;">
+    <h3>
+        Click to log in
+    </h3>
+    <a href=
+"http://127.0.0.1:8080">
+        <img src=
+"https://photos.app.goo.gl/VsaogFCMT98MWx1w8"
+            alt="Tap">
+    </a>
+</body>
+
+</html>
